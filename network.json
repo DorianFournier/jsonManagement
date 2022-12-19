@@ -1,0 +1,28 @@
+{ 
+	"ipServer":"192.102.32.33",
+	"nickName":"John",
+    "sessionName":"TestRoom",
+
+	"host":{
+		"name":"Dorian",
+		"id":0,
+		"role": "leader"
+	},
+
+	"users": [ 
+      {
+      	"name": "Nairod",
+       	"id": 1,
+       	"role": "wingman2",
+        "status": "not ready"
+      },
+      {
+      	"name": "Kcnarf",
+       	"id": 2,
+       	"role": "wingman1",
+        "status": "ready"
+      }
+	],
+	"sessionConfig":"4 players",
+	"maxUser": 4
+}

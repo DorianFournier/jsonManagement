@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/dorianfournier/Downloads/json-20220924.jar",
+        "/Users/dorianfournier/Downloads/json-simple-1.1.jar"
+    ],
+    "java.dependency.packagePresentation": "hierarchical"
+}
